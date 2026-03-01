@@ -13,8 +13,7 @@ I build practical projects that improve workflows, organization, and efficiency.
 
 ### 🔹 Developer Portfolio
 A modern portfolio website showcasing my projects, coursework, and skills.  
-**Live:** (add your portfolio live link here)  
-**Repo:** (add repo link if public)
+**Live:** link to be added here 
 
 ### 🔹 WDD-430 Full-Stack Project — Handcrafted Haven (Team Project)
 Full-stack web app built with collaboration practices (deployment + real users).  
@@ -79,18 +78,13 @@ These courses helped me build strong foundations in programming, web development
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)  
 
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)  
-[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)  
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)  
 [![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)](https://www.openstack.org/)  
 
-[![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)  
-[![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)  
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)  
 ---
 
 ## 🌐 Connect with Me
 - LinkedIn: https://linkedin.com/in/ethem-deli
-- Stack Overflow: https://stackoverflow.com/users/25371684
+- Stack Overflow:
 
 ---
 
