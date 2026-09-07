@@ -8,14 +8,14 @@ I'm currently strengthening my full-stack development skills and building produc
 
 ### 🚀 What I'm working on
 
-- 🌐 Full-stack web applications
-- ⚛️ React frontend development
-- 🟢 Node.js and REST API development
-- 🗄️ PostgreSQL and SQL databases
-- 🔐 Authentication and application security
-- ☁️ Cloud deployment
-- 🐳 Docker and containerized applications
-- 🧪 Software testing
+* 🌐 Full-stack web applications
+* ⚛️ React frontend development
+* 🟢 Node.js and REST API development
+* 🗄️ PostgreSQL and SQL databases
+* 🔐 Authentication and application security
+* ☁️ Cloud deployment
+* 🐳 Docker and containerized applications
+* 🧪 Software testing
 
 ### 💻 Technologies
 
